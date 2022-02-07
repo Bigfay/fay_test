@@ -1,5 +1,5 @@
-ceci sert à tester le github .... ça n'a pas super bien marché on doit utiliserun token
+ceci sert à tester le github .... ça n'a pas super bien marché on doit utiliser un token
 maintenant
-C le deuxième
+Après test ....
 Maintenant ça marche avec le token aussi :-)
 Tout va bien
